@@ -1,4 +1,4 @@
-BINF5507 Assignment 2
+BINF5507 Assignment 3
 
 This reposistory includes one folder, "Scripts".
 
